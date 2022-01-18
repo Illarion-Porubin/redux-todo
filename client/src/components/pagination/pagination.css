@@ -1,0 +1,13 @@
+.pagination{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  font-size: 24px;
+  line-height: 28px;
+  color: rgba(150, 57, 57, 0.575);
+
+}
+
+.pageItem{
+  margin-left: 15px;
+}
